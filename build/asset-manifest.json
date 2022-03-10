@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9f35186.chunk.css",
+    "main.js": "/static/js/main.7cde623c.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.6432a135.js",
+    "static/css/2.b56e9696.chunk.css": "/static/css/2.b56e9696.chunk.css",
+    "static/js/2.84a1ca98.chunk.js": "/static/js/2.84a1ca98.chunk.js",
+    "static/js/3.8bfcba3b.chunk.js": "/static/js/3.8bfcba3b.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.84a1ca98.chunk.js.LICENSE.txt": "/static/js/2.84a1ca98.chunk.js.LICENSE.txt",
+    "static/media/CamHeadshot.e7624b14.png": "/static/media/CamHeadshot.e7624b14.png",
+    "static/media/CaraHeadshot.5c9972f3.png": "/static/media/CaraHeadshot.5c9972f3.png",
+    "static/media/MalHeadshot.aa0d0d5b.png": "/static/media/MalHeadshot.aa0d0d5b.png",
+    "static/media/campfp.7ab88ad7.png": "/static/media/campfp.7ab88ad7.png",
+    "static/media/creatorBenefits.fd3f954a.png": "/static/media/creatorBenefits.fd3f954a.png",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6432a135.js",
+    "static/css/2.b56e9696.chunk.css",
+    "static/js/2.84a1ca98.chunk.js",
+    "static/css/main.f9f35186.chunk.css",
+    "static/js/main.7cde623c.chunk.js"
+  ]
+}
